@@ -61,6 +61,20 @@ class Word2Sequence:#单词转换为序列，2同to
     
 
  
+# 测试整体 ：  
+
+# if __name__=='__main__':
+
+#     ws=Word2Sequence()
+#     ws.fit(['我shi','是','谁'])
+
+#     ws.fit(['a','s','ws'])
+
+#     ws.fit(['a','s','ws'])
+
+#     ws.build_vocab(min=0)
+
+#     print(ws.dict)
 
 
 
